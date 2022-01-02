@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @WateryWater
+- 👀 I’m interested in games and such, specially minecraft
+- 🌱 I’m currently learning how to code mods in Fabric
+- 📫 You can reach me on discord at Water#4247
